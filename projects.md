@@ -36,3 +36,10 @@ Here are examples of some of the reverse engineering CTF challenges I've written
 Here are some of the writeups for challenges I've solved through my CTF career: [some basic static analysis chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/loading.md), [insecure AES implementation chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/lupus.md), [keygen chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/sanity.md), [low level algo chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/sub.md), and a [tutorial chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/Walkthrough%20of%20Intro%20to%20Ghidra.md).
 
 I even wrote a little [guide](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/Rev.md) on getting started on CTF reversing :p
+
+
+# Lifestyle Projects 🌱
+
+1. Table Of Contents
+{:toc .large-only}
+
