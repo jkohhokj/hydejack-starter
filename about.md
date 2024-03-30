@@ -58,13 +58,12 @@ A portfolio that's guaranteed to be impressive — no matter what you put into i
 
 
 ## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](/assets/Resume-Spring-2024.8.pdf).
-
-[![Resume PDF](/assets/Resume-Spring-2024.8.pdf){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
-<!-->[![Resume PDF](assets/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}-->
 Jayden Koh's Resume.
 {:.figcaption}
-
+<object data="/assets/Resume-Spring-2024.8.pdf" type="application/pdf" width="884px" height="632px">
+    <embed src="/assets/Resume-Spring-2024.8.pdf">
+    </embed>
+</object>
 
 ## Just Markdown
 Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
