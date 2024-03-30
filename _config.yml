@@ -87,7 +87,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          assets/img/lost_404.png
+accent_image:          assets/img/sidebar-bg.jpg
 accent_color:          rgb(279,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -113,12 +113,12 @@ font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
-  - scope:
-      path:            
+  - scope: 
+      path: /test/            
     values:
       accent_color:    rgb(38,139,210)
       theme_color:     rgb(32,32,232)
-      accent_image:    
+      accent_image:    assets/img/lost_404.png
         background:    rgb(32,32,232)
         overlay:       false
 
