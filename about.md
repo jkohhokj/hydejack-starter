@@ -58,9 +58,9 @@ A portfolio that's guaranteed to be impressive — no matter what you put into i
 
 
 ## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume-Spring-2024.8.pdf).
+Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](/assets/Resume-Spring-2024.8.pdf).
 
-[![Resume PDF](assets/Resume-Spring-2024.8.pdf){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
+[![Resume PDF](/assets/Resume-Spring-2024.8.pdf){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
 <!-->[![Resume PDF](assets/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}-->
 Jayden Koh's Resume.
 {:.figcaption}

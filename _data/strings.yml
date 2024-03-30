@@ -53,6 +53,10 @@ not_found:
   message:             |
     Are you lost? 🗺️ Don't worry we'll send someone to rescue you! 🛟
     <!--home_link-->
+    ![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+    <!--![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}-->
+
+
   home_link:           Contact HQ ☎️
 
 offline:
