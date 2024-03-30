@@ -1,11 +1,11 @@
-# Technical Projects ⚙️
-
 1. Table Of Contents
 {:toc .large-only}
 
+# Technical Projects ⚙️
+
 ### Technical Analysis (July 2023 - present) 📈
 
-> Swing trading is a style of trading that attempts to capture short- to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing traders primarily use **technical analysis** to look for trading opportunities.
+> Swing trading is a style of trading that attempts to capture short to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing traders primarily use **technical analysis** to look for trading opportunities.
 
 I use stochastic analysis with various technical indicators to predict optimal entry and exit times to capture the nature, random market fluctuations. Then I test that strategy across various iterations of historical market data to find the optimal strategy.
 
@@ -39,7 +39,3 @@ I even wrote a little [guide](https://github.com/jkohhokj/jkohhokj2.github.io/bl
 
 
 # Lifestyle Projects 🌱
-
-1. Table Of Contents
-{:toc .large-only}
-
