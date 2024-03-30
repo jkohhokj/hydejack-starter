@@ -37,28 +37,28 @@ description:           Description
 search:                Search
 search_placeholder:    Type something…
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Downloading more RAM…
+redirecting:           Adults are just kids with money…
 
 continue_reading:      >
   Continue reading <!--post_title-->
 
 cookies_banner:
   text:                >
-    This site uses cookies. [Cookies Policy](/cookies-policy/).
-  okay:                Okay
+    This site uses cookies. 🍪 [Cookies Policy](/cookies-policy/).
+  okay:                Nom nom!
 
 not_found:
   title:               '404: Page Not Found'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    Are you lost? Don't worry we'll send someone to rescue you!
+    <!--home_link-->
+  home_link:           Contact HQ
 
 offline:
   title:               'You are Offline'
   message:             |
-    Sorry, but you appear to be offline and this page has not been prepared for offline viewing.
+    Womp womp, no internet :(
     <!--home_link--> to try finding another page.
   home_link:           Head back home
 
