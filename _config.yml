@@ -26,7 +26,6 @@ title:                 Jayden Koh's Site
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   My open book project where I share my ideas, experience, and knowledge!
-  lines
 
 # A shorter description for the sidebar.
 tagline:               College Student :D
@@ -49,8 +48,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Jayden Koh's Site
-    url:               /example/
   - title:             About
     url:               /about/
   - title:             Blog
@@ -64,7 +61,7 @@ legal:
   - title:             LICENSE
     url:               /LICENSE/
   - title:             RESUME
-    url:               /RESUME/
+    url:               /assets/Resume-Spring-2024.8.pdf/
   - title:             LINKS
     url:               /linkstack/
 

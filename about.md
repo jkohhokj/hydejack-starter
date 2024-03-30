@@ -119,7 +119,7 @@ Hydejack uses KaTeX to efficiently render math.
 
 [blog]: /
 [portfolio]: https://github.com/jkohhokj
-[resume]: https://hydejack.com/resume/
+[resume]: /assets/Resume-Spring-2024.8.pdf
 [download]: https://hydejack.com/download/
 [welcome]: https://jkoh.dev/
 [forms]: https://hydejack.com/forms-by-example/

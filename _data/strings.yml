@@ -51,9 +51,9 @@ cookies_banner:
 not_found:
   title:               '404: Page Not Found'
   message:             |
-    Are you lost? Don't worry we'll send someone to rescue you!
+    Are you lost? 🗺️ Don't worry we'll send someone to rescue you! 🛟
     <!--home_link-->
-  home_link:           Contact HQ
+  home_link:           Contact HQ ☎️
 
 offline:
   title:               'You are Offline'
