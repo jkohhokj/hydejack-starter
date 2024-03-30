@@ -80,12 +80,11 @@ Most [CTFs](https://ctftime.org/ctf-wtf/) are structured into 5 distinct categor
 
 In addition to my self-learning, I also participated in the Embedded Security and Hardware Hacking course from MIT's Lincoln Lab at [BWSI](/events#mit-beaverworks-2022). During this course, I learned more about the finer details of cryptographic vulnerabilities, low level computer programming, and a more formal approach to the embedded design process. The final design project of our class being an exciting A/D (attack and defense) style CTF competition where teams of 4 students wrote bootloader and utility programs that could remotely update an embedded system while other teams tried to exploit vulnerabilities in their code and hack their systems.
 
-Here are examples of some of the reverse engineering CTF challenges I've written: [RollingOnMyOwn](/assets/Rolling On My Own/) and [SlowMaffs](/assets/SlowMaffs - Rev) for [idekCTF 2021](/events.md#idekctf-2021-2021) and [Digital Overdose Autumn 2021](https://ctftime.org/event/1459), respectively.
+Here are examples of some of the reverse engineering CTF challenges I've written: [RollingOnMyOwn](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/Rolling On My Own) and [SlowMaffs](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/SlowMaffs - Rev) for [idekCTF 2021](https://ctftime.org/event/1512/) and [Digital Overdose Autumn 2021](https://ctftime.org/event/1459), respectively.
 
-Here are some of the writeups for challenges I've solved through my CTF career: [some basic static analysis chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/loading.md), [insecure AES implementation chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/lupus.md), [keygen chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/sanity.md), [low level algo chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/sub.md), and a [tutorial chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/Walkthrough%20of%20Intro%20to%20Ghidra.md).
+Here are some of the writeups for challenges I've solved through my CTF career: [some basic static analysis chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/loading.md), [insecure AES implementation chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/lupus.md), [keygen chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/sanity.md), [low level algo chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/sub.md), and a [tutorial chall](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/writeups/Walkthrough%20of%20Intro%20to%20Ghidra.md).
 
-I even wrote a little [guide](/assets/Rev.md) on getting started on CTF reversing :p
-
+I even wrote a little [guide](https://github.com/jkohhokj/jkohhokj2.github.io/blob/main/assets/Rev.md) on getting started on CTF reversing :p
 
 # Lifestyle Activities 🌱
 
