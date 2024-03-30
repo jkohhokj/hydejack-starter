@@ -13,6 +13,10 @@ redirect_from:
   I graduated from a health professions 🩺 high school, DeBakey High School in Houston, Texas but my interests lie in software 🤖 and cybersecurity ⚔️🛡️.
   I enjoy bouldering 🧗‍♂️, working out 🏋️, folding origami 🦢, and playing CTFs 🚩 in my free time.
 
+
+
+  This is my open book project where I share my ideas, experience, and knowledge!
+
 ## Hydejack
 
 
