@@ -6,7 +6,7 @@ image:
 description: >
   Complete writeup for an easy PNPT practice box.
 related_posts:
-  - blot/network_writeups/blackpearl
+  - blog/network_writeups/blackpearl
 sitemap: false
 ---
 
