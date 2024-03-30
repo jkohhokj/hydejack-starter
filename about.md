@@ -15,8 +15,7 @@ I enjoy bouldering 🧗‍♂️, working out 🏋️, folding origami 🦢, and
 
 This is my open book project where I share my ideas, experiences, and knowledge!
 
-> Check out my [blog], [portfolio], and [resume].
-{:.lead}
+> Check out my [blog](/blog), [portfolio](https://github.com/jkohhokj), and [resume](/assets/Resume-Spring-2024.8.pdf).
 
 1. Table Of Contents
 {:toc .large-only}
