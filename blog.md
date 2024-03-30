@@ -15,6 +15,10 @@
 
 ---
 
+[CTF SlowMaffs Writeup](blog/ctf_writeups/2022-07-31-slowmaffs.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31 July
+
+[CTF Reverse Engineering Beginning Guide](blog/2022-06-31-reverse-engineering-beginning-guide.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31 June
+
 [CTF Loading Writeup](blog/ctf_writeups/2022-06-30-loading.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 June
 
 [CTF Lupus Writeup](blog/ctf_writeups/2022-06-30-lupus.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 June
@@ -23,4 +27,4 @@
 
 [CTF Sub Writeup](blog/ctf_writeups/2022-06-30-sub.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 June
 
-[CTF Reverse Engineering Beginning Guide](blog/2022-06-31-reverse-engineering-beginning-guide.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31 July
+
