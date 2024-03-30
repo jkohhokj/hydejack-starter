@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Content
+title: Personal Website
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  This is a post about my personal site.
 sitemap: false
 hide_last_modified: true
 ---
