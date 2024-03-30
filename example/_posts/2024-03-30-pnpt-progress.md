@@ -2,13 +2,13 @@
 layout: post
 title: BlackPearl Writeup
 image: 
-  path: /assets/img/blog/website.png
+  path: /assets/img/blog/blackpearl-nmap.png
 description: >
-  Migrating my website from an old platform.
+  Complete writeup for an easy PNPT practice box.
 related_posts:
   - blot/network_writeups/blackpearl
 sitemap: false
 ---
 
-I'm working on it.
+BlackPearl Writeup
 {:.lead}
