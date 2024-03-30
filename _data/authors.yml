@@ -12,7 +12,7 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            assets/blog/img/blog-layout.jpg
+    path:            assets/img/sidebar-bg.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     # srcset:
     #   1x:            https://via.placeholder.com/128x128
@@ -22,8 +22,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:          <jkohhokj>
-    email:           <jkohhokj@gmail.com>
+    github:          jkohhokj
+    email:           jkohhokj@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -34,7 +34,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       <jjkohhokjj>
+    instagram:       jjkohhokjj
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -52,7 +52,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <jayden-koh-23840a227>
+    linkedin:        jayden-koh-23840a227
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
