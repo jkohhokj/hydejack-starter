@@ -28,7 +28,7 @@ description:           >
   My open book project where I share my ideas, experience, and knowledge!
 
 # A shorter description for the sidebar.
-tagline:               College Student :[
+tagline:               College Student :}
 
 # A list of keywords for your blog
 keywords:              []
@@ -117,9 +117,9 @@ defaults:
       path:            
     values:
       accent_color:    rgb(38,139,210)
-      theme_color:     rgb(32,32,232)
-      accent_image:
-        background:    rgb(32,32,232)
+      theme_color:     rgb(32,32,32)
+      accent_image:    
+        background:    rgb(32,32,32)
         overlay:       false
 
   # Don't include documents in assets in the sitemap
