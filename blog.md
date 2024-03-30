@@ -1,30 +1,22 @@
-# Blog
-
-## 2024
-
 ---
+# Featured tags need to have either the `list` or `grid` layout (PRO only).
+layout: list
 
-[BlackPearl Writeup](blog/network_writeups/2024-03-30-blackpearl.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 May
+# The title of the tag's page.
+title: blog
 
+# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
+slug: blog
 
-[Pandora's Box](blog/2024-03-30-pandoras-box.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 May
+# (Optional) Write a short (~150 characters) description of this featured tag.
+description: >
+  This is a featured category, which have their own page.
+  Check out `_featured_tags/example.md` to learn how to create your own.
 
+# (Optional) You can disable grouping posts by date.
+# no_groups: true
 
-
-## 2022
-
+# Exclude this example category from the sitemap.
+# DON'T USE THIS SETTING IN YOUR CATEGORIES!
+sitemap: false
 ---
-
-[CTF SlowMaffs Writeup](blog/ctf_writeups/2022-07-31-slowmaffs.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31 July
-
-[CTF Reverse Engineering Beginning Guide](blog/2022-06-31-reverse-engineering-beginning-guide.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31 June
-
-[CTF Loading Writeup](blog/ctf_writeups/2022-06-30-loading.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 June
-
-[CTF Lupus Writeup](blog/ctf_writeups/2022-06-30-lupus.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 June
-
-[CTF Sanity Writeup](blog/ctf_writeups/2022-06-30-sanity.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 June
-
-[CTF Sub Writeup](blog/ctf_writeups/2022-06-30-sub.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 June
-
-
