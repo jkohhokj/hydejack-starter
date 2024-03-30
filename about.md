@@ -7,7 +7,7 @@ redirect_from:
   - /download/
 ---
 
-# About
+# Welcome
 
 Hey, 👋 I'm Jayden. I currently attend Texas A&M, CO '27. Let's go Aggies! 
 I graduated from a health professions 🩺 high school, DeBakey High School in Houston, Texas but my interests lie in software 🤖 and cybersecurity ⚔️🛡️.
@@ -25,7 +25,7 @@ This is my open book project where I share my ideas, experiences, and knowledge!
 
 # Professional Experience 💼
 
-#### BWSI (2023 - present) 🦫
+### BWSI Intern (2023 - present) 🦫
 During the summer, MIT's Lincoln Laboratory hosts an immersive 4-week program known as BeaverWorks Summer Institute (BWSI), aimed at imparting high school students with advanced technical skills. Within this dynamic environment, I had the privilege of guiding the Embedded Security and Hardware Hacking course, a program I once enjoyed as a student and now returned to as a Teaching Assistant.
 
 *The* highlight of the program was our capstone competition, where teams engaged in a thrilling pursuit to uncover hidden flags within other teams software, employing techniques commonly exploited in practical cybersecurity scenarios. From navigating malicious firmware to deciphering encryption keys and extracting data from flash memory, students encountered and conquered challenges mirroring those encountered by industry professionals.
@@ -36,13 +36,15 @@ However, beyond the technical aspects, this experience provided invaluable lesso
 
 # Certifications 📜
 
-#### Practical Networking Penetration Tester (PNPT) Certificate (2024) 🌐
+### Practical Networking Penetration Tester (PNPT) Certificate (2024) 🌐
 
-The Practical Network Penetration Tester™ (PNPT) certification is an intermediate-level penetration testing exam experience.  This exam will assess a student’s ability to perform a network penetration test at an professional level.  Students will have five (5) full days to complete the assessment and an additional two (2) days to write a professional report utiziling industry standard tactics, techniques, and procedures with Open-Source Intelligence (OSINT), Active Directory exploitation, and network enumeration.
+The Practical Network Penetration Tester™ (PNPT) certification is an intermediate-level penetration testing exam experience.  This exam will assess a student’s ability to perform a network penetration test at an professional level.  Students will have five (5) full days to complete the assessment and an additional two (2) days to write a professional report utiziling industry standard tactics, techniques, and procedures with Open-Source Intelligence (OSINT), Active Directory exploitation, and internal network enumeration.
 
-I expect to complete the course and pass the exam in Summer 2024. 
+I expect to complete the course and pass the exam in Summer 2024.
 
-#### Offensive Security Certified Professional (OSCP) (2024) 🗡️
+[Example Writeup & Report]
+
+### Offensive Security Certified Professional (OSCP) (2024) 🗡️
 
 The industry-leading Penetration Testing with Kali Linux (PWK/PEN-200) course introduces penetration testing methodologies, tools, and techniques in a hands-on, self-paced environment. Learners who complete the course and pass the exam will earn the OffSec Certified Professional (OSCP) certification which requires holders to successfully attack and penetrate various live machines in a safe lab environment. This on top of the OSCP includes binary exploitation and more advanced Linux exploitation.
 
@@ -50,7 +52,7 @@ I expect to complete the course and pass the exam in Fall 2024.
 
 # Technical Projects ⚙️
 
-#### Technical Analysis (July 2023 - present) 📈
+### Technical Analysis (July 2023 - present) 📈
 
 > Swing trading is a style of trading that attempts to capture short- to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing traders primarily use **technical analysis** to look for trading opportunities.
 
@@ -60,17 +62,34 @@ This is an example of an exit strategy that utilized predictive KDJ crossovers o
 
 ![technical analysis](/assets/img/blog/backtesting-technical-analysis-example.png)
 
-#### Firmware Distribution System (Summer 2022) 💻
+### Firmware Distribution System (Summer 2022) 💻
 
 Under the guidance of MITRE teachers (praise Iv Robinson) we taught our students how to design and deploy a firmware updating protocol for an offsite bootloader. After deployment, we hide flags in the hardware and held a competition for whichever team could capture the most flags using commonly exploited vulnerabilites in the real world like booting maclious firmware, finding the encryption key, and dumping flash memory.
 
-[FW Diagram](assets/img/blog/fwprotect2.png)
+![FW Diagram](assets/img/blog/fwprotect2.png)
 
 [GitHub Repo](https://github.com/NebuDev14/firmware-distribution-system)
 
+### Embedded Hacking and Reverse Engineering (Early 2021 - present) 🔁👨🏻‍💻🛠
+
+> Embedded systems security is a cybersecurity field focused on preventing malicious access to and use of embedded systems.
+
+> The process of taking a piece of software or hardware and analyzing its functions and information flow so that its functionality and behavior can be understood. Malware is commonly reverse-engineered in cyber defense.
+
+Most [CTFs](https://ctftime.org/ctf-wtf/) are structured into 5 distinct categories, web, pwn, crypto, forensics/misc, and reversing, of which I chose reverse engineering to be my specialty. Because of my informal learning style I just learned from whatever resources I could find, even though they were probably not targeted towards my direct interest, they still did provide suplemental value. Most of the theoretical reversing I've learned comes from [Reverse_Engineering-Wiley(2005)](https://www.wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering+-p-9781118079768) which goes over Assembly, computer architecture, and a variety of reversing topics.
+
+In addition to my self-learning, I also participated in the Embedded Security and Hardware Hacking course from MIT's Lincoln Lab at [BWSI](/events#mit-beaverworks-2022). During this course, I learned more about the finer details of cryptographic vulnerabilities, low level computer programming, and a more formal approach to the embedded design process. The final design project of our class being an exciting A/D (attack and defense) style CTF competition where teams of 4 students wrote bootloader and utility programs that could remotely update an embedded system while other teams tried to exploit vulnerabilities in their code and hack their systems.
+
+Here are examples of some of the reverse engineering CTF challenges I've written: [RollingOnMyOwn](/assets/Rolling On My Own/) and [SlowMaffs](/assets/SlowMaffs - Rev) for [idekCTF 2021](/events.md#idekctf-2021-2021) and [Digital Overdose Autumn 2021](https://ctftime.org/event/1459), respectively.
+
+Here are some of the writeups for challenges I've solved through my CTF career: [some basic static analysis chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/loading.md), [insecure AES implementation chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/lupus.md), [keygen chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/sanity.md), [low level algo chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/sub.md), and a [tutorial chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/Walkthrough%20of%20Intro%20to%20Ghidra.md).
+
+I even wrote a little [guide](/assets/Rev.md) on getting started on CTF reversing :p
+
+
 # Lifestyle Activities 🌱
 
-#### Lifting (April 2022 - present) 🏋️
+### Lifting (April 2022 - present) 🏋️
 
 > Weight training is a common type of strength training for developing the strength, size of skeletal muscles and maintenance of strength. It uses the force of gravity in the form of weighted bars, dumbbells or weight stacks in order to oppose the force generated by muscle through concentric or eccentric contraction.
 
@@ -81,7 +100,7 @@ Stats:
 
 [Fitness & Gym Instagram](https://www.instagram.com/jkoh.jimbro/)
 
-#### Rock Climbing (August 2022 - present) 🧗‍♂️
+### Rock Climbing (August 2022 - present) 🧗‍♂️
 
 > Bouldering is a form of free climbing that is performed on small rock formations or artificial rock walls without the use of ropes or harnesses.
 
@@ -93,7 +112,7 @@ Bouldering: V6, Momentum Silver Street
 
 Top Rope: 5.12a, Momentum Katy
 
-#### Maps of Meaning/Personality (Spring 2021): 🗺️
+### Maps of Meaning/Personality (Spring 2021): 🗺️
 
 > Maps of Meaning lays bare the grammar of mythology, and describes the relevance of that grammar for interpretation of narrative and religion, comprehension of ideological identification, and understanding of the role that individual choice plays in the maintenance, transformation and destiny of social systems.
 
@@ -127,14 +146,6 @@ I've always found it difficult to integrate this aspect of my life when represen
 ## Download
 
 {% include table.md %}
-
-## My Resume
-Jayden Koh's Resume.
-{:.figcaption}
-<object data="/assets/Resume-Spring-2024.8.pdf" type="application/pdf" width="884px" height="1246px">
-    <embed src="/assets/Resume-Spring-2024.8.pdf">
-    </embed>
-</object>
 
 ## Just Markdown
 Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
