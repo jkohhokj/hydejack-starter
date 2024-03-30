@@ -3,10 +3,10 @@
 layout: list
 
 # The title of the tag's page.
-title: blog
+title: blog/ctf_writeups
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: blog
+slug: blog/ctf_writeups
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
