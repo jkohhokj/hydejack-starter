@@ -9,13 +9,13 @@ redirect_from:
 
 # About
 
-  Hey, 👋 I'm Jayden. I currently attend Texas A&M, CO '27. Let's go Aggies! 
-  I graduated from a health professions 🩺 high school, DeBakey High School in Houston, Texas but my interests lie in software 🤖 and cybersecurity ⚔️🛡️.
-  I enjoy bouldering 🧗‍♂️, working out 🏋️, folding origami 🦢, and playing CTFs 🚩 in my free time.
+Hey, 👋 I'm Jayden. I currently attend Texas A&M, CO '27. Let's go Aggies! 
+I graduated from a health professions 🩺 high school, DeBakey High School in Houston, Texas but my interests lie in software 🤖 and cybersecurity ⚔️🛡️.
+I enjoy bouldering 🧗‍♂️, working out 🏋️, folding origami 🦢, and playing CTFs 🚩 in my free time.
 
 
 
-  This is my open book project where I share my ideas, experience, and knowledge!
+This is my open book project where I share my ideas, experience, and knowledge!
 
 ## Projects
 
@@ -41,10 +41,10 @@ It includes a blog that is suitable for both prose and technical documentation, 
 
 {% include table.md %}
 
-## A Printable Resume
+## My Resume
 Jayden Koh's Resume.
 {:.figcaption}
-<object data="/assets/Resume-Spring-2024.8.pdf" type="application/pdf" width="884px" height="632px">
+<object data="/assets/Resume-Spring-2024.8.pdf" type="application/pdf" width="884px">
     <embed src="/assets/Resume-Spring-2024.8.pdf">
     </embed>
 </object>
