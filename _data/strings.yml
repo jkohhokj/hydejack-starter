@@ -53,10 +53,8 @@ not_found:
   message:             |
     Are you lost? 🗺️ Don't worry we'll send someone to rescue you! 🛟
     <!--home_link-->
-  image:               assets/img/lost_404.png
-  
-
-
+    <!--image_link-->
+  image_link:               /assets/img/lost_404.png
   home_link:           Contact HQ ☎️
 
 offline:
