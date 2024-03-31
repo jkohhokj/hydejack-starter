@@ -1,8 +1,6 @@
 ---
 layout: post
 title: BlackPearl Writeup
-slug: featured
-slug: network_writeups
 image: 
   path: /assets/img/lost_404.png
 description: >
