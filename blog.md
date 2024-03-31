@@ -21,6 +21,6 @@ sitemap: false
 ---
 
 #### Different tags:
-- [CTF Writeups](ctf_writeups)
-- [Network Writeups](network_writeups)
-- [Lifestyle](lifestyle)
+- [CTF Writeups](/ctf_writeups.md)
+- [Network Writeups](/network_writeups.md)
+- [Lifestyle](/lifestyle.md)

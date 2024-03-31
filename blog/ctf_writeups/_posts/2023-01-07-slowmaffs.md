@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slowmaffs
-slug: CTF-Writeups
+slug: ../Slowmaffs 
 image: 
   path: /assets/img/lost_404.png
 description: >
