@@ -3,14 +3,13 @@
 layout: list
 
 # The title of the tag's page.
-title: blog
+title: Technical
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: blog
+slug: technical
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  All of the posts on my site, you can filter them through tags below.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,9 +18,3 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
-
-#### Different tags:
-- [CTF Writeups](/ctf_writeups.md)
-- [Network Writeups](/network_writeups.md)
-- [Lifestyle](/lifestyle.md)
-- [Technical](/technical.md)
