@@ -1,3 +1,18 @@
+---
+layout: post
+title: Reverse Engineering Beginner Guide
+image: 
+  path: /assets/img/lost_404.png
+description: >
+  Beginner guide for learning reverse engineering CTFs.
+sitemap: false
+---
+
+# Reverse Engineering Beginner Guide
+
+- Table of Contents
+{:toc .large-only}
+
 [Overview](https://www.usenix.org/system/files/conference/3gse15/3gse15-feng.pdf)
 
 Before you get scared off from reversing, note that these levels are on a logarithmic curve, meaning that once you get past the baby level, everything will start the make more sense and you probably won't need this list anymore, but it's still a good reference. As you get more advanced, you'll start needing a wider range of skills and each specific will be used less and less meaning that you'll probably need to learn on the fly. The most important soft skill here would be knowing how to google for information while ctfs are running because you can't learn everything beforehand. There's a lot of things that aren't covered on here but this covers most of the important things, don't worry about reading through *everything* before getting your feet wet (skim through everything at least), these are just reference materials for you to go back on when you get stuck. 

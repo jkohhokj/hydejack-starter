@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Slowmaffs
+slug: ctf_writeups
 image: 
   path: /assets/img/lost_404.png
 description: >
@@ -12,6 +13,9 @@ sitemap: false
 
 
 # SlowMaffs
+
+- Table of Contents
+{:toc .large-only}
 
 I made a super esoteric challenge for [Digital Overflow CTF](https://ctftime.org/event/1760/) in [Brainfuck](https://simple.wikipedia.org/wiki/Brainfuck), complete with a writeup and solve script.
 
