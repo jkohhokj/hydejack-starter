@@ -1,14 +1,14 @@
 ---
 layout: post
-title: BlackPearl Writeup
+title: PNPT Progress Update
+slug: featured
 image: 
   path: /assets/img/blog/blackpearl-nmap.png
 description: >
-  Complete writeup for an easy PNPT practice box.
+  PNPT Progress Update
 related_posts:
   - blog/network_writeups/blackpearl
 sitemap: false
 ---
 
-BlackPearl Writeup
-{:.lead}
+# PNPT Progress Update

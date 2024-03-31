@@ -12,7 +12,7 @@ sitemap: false
 ---
 
 
-# SlowMaffs
+# SlowMaffs Writeup
 
 - Table of Contents
 {:toc .large-only}
