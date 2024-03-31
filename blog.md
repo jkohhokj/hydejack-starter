@@ -8,14 +8,9 @@ title: blog
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: blog
 
-related_posts:
-  - ctf_writeups
-  - network_writeups
-
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  All of my posts from 
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -24,3 +19,8 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
+
+#### Different tags:
+- [CTF Writeups](ctf_writeups)
+- [Network Writeups](network_writeups)
+- [Lifestyle](lifestyle)

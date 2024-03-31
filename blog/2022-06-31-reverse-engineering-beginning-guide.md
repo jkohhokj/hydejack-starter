@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reverse Engineering Beginner Guide
+slug: featured
 image: 
   path: /assets/img/lost_404.png
 description: >
