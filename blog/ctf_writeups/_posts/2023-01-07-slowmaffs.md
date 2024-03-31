@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Slowmaffs
-slug: ctf_writeups
+slug: CTF Writeups
 image: 
   path: /assets/img/lost_404.png
 description: >
   Complete writeup the Slowmaffs reverse engineering challenge.
 related_posts:
-  - blog/_posts/ctf_writeups/2021-08-15-loading
+  - blog/ctf_writeups/_posts/2021-08-15-loading
 sitemap: false
 ---
 
