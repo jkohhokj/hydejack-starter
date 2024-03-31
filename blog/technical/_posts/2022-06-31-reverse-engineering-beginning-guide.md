@@ -2,7 +2,7 @@
 layout: post
 title: Reverse Engineering Beginner Guide
 image: 
-  path: /assets/img/lost_404.png
+  path: /assets/img/ghidra.png
 description: >
   Beginner guide for learning reverse engineering CTFs.
 sitemap: false

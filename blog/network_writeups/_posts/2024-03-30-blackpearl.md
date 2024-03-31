@@ -2,7 +2,7 @@
 layout: post
 title: BlackPearl Writeup
 image: 
-  path: /assets/img/lost_404.png
+  path: /assets/img/blackpearl-nmap.png
 description: >
   Complete writeup for the network machine from the PNPT training course.
 sitemap: false

@@ -2,7 +2,7 @@
 layout: post
 title: PNPT Progress Update
 image: 
-  path: /assets/img/blog/blackpearl-nmap.png
+  path: /assets/img/blog/tcmsecurity_logo.png
 description: >
   PNPT Progress Update
 sitemap: false

@@ -2,7 +2,7 @@
 layout: post
 title: Slowmaffs
 image: 
-  path: /assets/img/lost_404.png
+  path: /assets/img/slowmaffs.png
 description: >
   Complete writeup of the Slowmaffs **reverse engineering** challenge.
 sitemap: false
