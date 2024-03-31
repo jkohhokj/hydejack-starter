@@ -4,9 +4,7 @@ title: Slowmaffs
 image: 
   path: /assets/img/lost_404.png
 description: >
-  Complete writeup the Slowmaffs reverse engineering challenge.
-related_posts:
-  - blog/ctf_writeups/_posts/2021-08-15-loading
+  Complete writeup of the Slowmaffs **reverse engineering** challenge.
 sitemap: false
 ---
 
