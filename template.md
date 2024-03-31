@@ -1,7 +1,8 @@
+POST
+```
 ---
 layout: post
 title: Slowmaffs
-slug: ../Slowmaffs # 
 image: 
   path: /assets/img/lost_404.png #Blog image on featured
 description: #Shows up on the side of the page
@@ -19,3 +20,19 @@ sitemap: false
 {:toc .large-only}
 
 BLAH
+```
+
+POST LISTING
+```
+---
+layout: list
+
+title: CTF Writeups # How it shows up
+
+slug: ctf_writeups # which directory to show
+
+description: >
+
+sitemap: false
+---
+```
