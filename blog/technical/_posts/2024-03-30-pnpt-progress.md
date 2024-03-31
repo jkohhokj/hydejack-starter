@@ -1,12 +1,11 @@
 ---
 layout: post
-title: CTF FEATURED
-slug: new-featured
+title: PNPT Progress Update
 image: 
   path: /assets/img/blog/blackpearl-nmap.png
 description: >
-  CTF FEATURED
+  PNPT Progress Update
 sitemap: false
 ---
 
-# FEATURED
+# PNPT Progress Update

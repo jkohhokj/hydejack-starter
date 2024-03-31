@@ -21,7 +21,7 @@ sitemap: false
 ---
 
 #### Different tags:
-- [CTF Writeups](/ctf_writeups.md)
-- [Network Writeups](/network_writeups.md)
-- [Lifestyle](/lifestyle.md)
-- [Technical](/technical.md)
+- [CTF Writeups](/blog/ctf_writeups.md)
+- [Network Writeups](/blog/network_writeups.md)
+- [Lifestyle](/blog/lifestyle.md)
+- [Technical](/blog/technical.md)
